@@ -1,0 +1,38 @@
+import json
+
+def clean_data(data):
+    # 1. Remove users with missing or empty name
+    data["users"] = [user for user in data["users"] if user.get("name", "").strip()]
+
+    # 2. Remove duplicate friends
+    for user in data["users"]:
+        if "friends" in user:
+            user["friends"] = list(set(user["friends"]))
+
+    # 3. Remove inactive users (no friends AND no liked pages)
+    data["users"] = [
+        user for user in data["users"]
+        if user.get("friends") or user.get("liked_pages")
+    ]
+
+    # 4. Remove duplicate pages based on id
+    unique_pages = {}
+    for page in data.get("pages", []):
+        unique_pages[page["id"]] = page
+
+    data["pages"] = list(unique_pages.values())
+
+    return data
+
+
+# Load the data
+with open("data3.json") as f:
+    data = json.load(f)
+
+data = clean_data(data)
+
+# Save cleaned data
+with open("cleaned_data2.json", "w") as f:
+    json.dump(data, f, indent=4)
+
+print("Data has been cleaned successfully!")
