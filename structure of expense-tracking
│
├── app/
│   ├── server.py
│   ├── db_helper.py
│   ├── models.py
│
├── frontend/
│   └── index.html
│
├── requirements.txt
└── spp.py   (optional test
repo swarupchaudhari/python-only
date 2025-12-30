@@ -1,0 +1,12 @@
+expense-tracking/
+│
+├── app/
+│   ├── server.py
+│   ├── db_helper.py
+│   ├── models.py
+│
+├── frontend/
+│   └── index.html
+│
+├── requirements.txt
+└── spp.py   (optional test script)
