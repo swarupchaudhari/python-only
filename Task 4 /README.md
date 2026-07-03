@@ -1,4 +1,4 @@
-# Amazon Reviews Sentiment Analysis
+#  Sentiment Analysis
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ The project demonstrates the complete Data Analytics workflow including:
 
 ## Dataset
 
-Amazon Product Reviews
+
 
 Columns
 
@@ -85,10 +85,3 @@ Key Findings
 - Live Twitter Sentiment
 - Dashboard with Power BI
 
----
-
-## Author
-
-Swarup Chaudhari
-
-Data Analyst | SQL | Excel | Python | Power BI
