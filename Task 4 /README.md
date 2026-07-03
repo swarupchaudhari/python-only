@@ -85,3 +85,11 @@ Key Findings
 - Live Twitter Sentiment
 - Dashboard with Power BI
 
+
+## Business Insights
+
+- Most customer reviews are positive.
+- Negative reviews mainly discuss delivery delays.
+- Positive reviews mention product quality.
+- Marketing should emphasize quality.
+- Customer support should improve delivery experience.
