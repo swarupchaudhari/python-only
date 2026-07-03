@@ -89,7 +89,6 @@ for word in positive_words:
         print("Positive Emotion Detected")
 
 
-df = pd.read_csv("amazon_reviews.csv")
 
 
 
