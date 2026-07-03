@@ -45,6 +45,44 @@ plt.show()
 
 
 
+count_books.plot(kind="bar")
+plt.title("Books by Category")
+plt.show()
+
+
+avg_price.plot(kind="bar")
+plt.title("Average Price by Category")
+plt.show()
+
+
+ratings.plot(kind="bar")
+plt.title("Average Rating by Category")
+plt.show()
+
+
+df["Price"].hist(bins=20)
+plt.title("Price Distribution")
+plt.show()
+
+
+import matplotlib.pyplot as plt
+
+corr = df[["Price", "Rating", "Stock"]].corr()
+
+plt.imshow(corr)
+
+plt.xticks(range(len(corr.columns)), corr.columns)
+
+plt.yticks(range(len(corr.columns)), corr.columns)
+
+plt.colorbar()
+
+plt.show()
+
+
+
+
+
 Q1 = df['Price'].quantile(0.25)
 Q3 = df['Price'].quantile(0.75)
 
