@@ -98,11 +98,3 @@ Future Improvements
 - Streamlit dashboard deployment.
 
 ---
-
-Author
-
-Swarup Chaudhari
-
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization
-
-Thank you for visiting this project. Feedback and suggestions are always welcome.
