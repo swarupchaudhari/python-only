@@ -1,0 +1,68 @@
+01_Data_Loading.ipynb
+
+• Import Libraries
+• Load Dataset
+• Check Shape
+• View First Rows
+
+
+.02_Data_Cleaning.ipynb
+
+• Missing Values
+• Remove Duplicates
+• Lowercase
+• Remove Punctuation
+• Remove Stopwords
+
+
+02_Data_Cleaning.ipynb
+
+• Missing Values
+• Remove Duplicates
+• Lowercase
+• Remove Punctuation
+• Remove Stopwords
+
+
+03_EDA.ipynb
+
+• Summary Statistics
+• Review Length
+• Rating Analysis
+• Word Frequency
+
+
+
+04_Sentiment_Analysis.ipynb
+
+• TextBlob
+• Polarity
+• Subjectivity
+• Positive/Negative/Neutral Classification..
+
+
+
+
+05_Data_Visualization.ipynb
+
+• Pie Chart
+• Count Plot
+• Histogram
+• Word Cloud
+• Bar Charts
+
+
+06_Final_Report.ipynb
+
+• Business Insights
+• Recommendations
+• Conclusion
+
+
+
+06_Final_Report.ipynb
+
+• Business Insights
+• Recommendations
+• Conclusion
+
