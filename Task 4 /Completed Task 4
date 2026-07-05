@@ -1,0 +1,37 @@
+ Completed Task 4: Sentiment Analysis using NLP 📊🧠
+
+I'm excited to share my latest Data Analytics project focused on Sentiment Analysis, where I explored how Natural Language Processing (NLP) can transform unstructured text into meaningful business insights.
+
+🔍 Project Highlights
+
+✅ Collected and analyzed text data from Amazon reviews, social media posts, and news headlines.
+✅ Classified customer opinions into Positive, Negative, and Neutral sentiments using NLP techniques.
+✅ Applied text preprocessing, tokenization, stop-word removal, and sentiment scoring with TextBlob.
+✅ Performed Emotion Detection to identify emotions such as Joy, Anger, Sadness, Fear, Trust, and Surprise.
+✅ Built insightful visualizations including sentiment distribution, word clouds, rating analysis, emotion analysis, and trend charts.
+✅ Generated actionable business insights to support marketing strategies, product development, and customer experience improvements.
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- NLTK
+- TextBlob
+- Matplotlib
+- Seaborn
+- WordCloud
+- Jupyter Notebook
+
+📈 Key Business Insights
+
+📌 Most customer reviews expressed positive sentiment.
+📌 Product quality received strong appreciation from users.
+📌 Pricing and delivery were the most common reasons for negative feedback.
+📌 Sentiment trends can help organizations improve products, strengthen customer satisfaction, and make data-driven decisions.
+
+This project strengthened my practical skills in Natural Language Processing (NLP), Sentiment Analysis, Data Visualization, Exploratory Data Analysis (EDA), and Business Intelligence.
+
+I would love to hear your feedback and suggestions. Thank you for your support!
+
+#DataAnalytics #DataScience #Python #NLP #SentimentAnalysis #MachineLearning #ArtificialIntelligence #TextAnalytics #EDA #DataVisualization #BusinessAnalytics #JupyterNotebook #LearningInPublic #LinkedInProjects #OpenToWork
