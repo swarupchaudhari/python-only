@@ -1,0 +1,51 @@
+🚀 Data Visualization Project | Transforming Raw Data into Actionable Insights 📊
+
+I'm excited to share my latest Data Visualization Project, where I analyzed a dataset of 200 books and transformed raw data into meaningful visual insights using Python and business intelligence tools.
+
+This project demonstrates how effective visualizations can simplify complex data, uncover hidden trends, and support data-driven decision-making.
+
+🔍 Project Highlights
+
+📚 Analyzed a dataset of 200 books across multiple categories.
+📊 Performed Exploratory Data Analysis (EDA) to understand data patterns and relationships.
+📈 Created interactive and insightful visualizations using Matplotlib and Seaborn.
+📉 Designed charts to analyze category distribution, price trends, ratings, stock availability, and feature correlations.
+📌 Built a dashboard concept suitable for Power BI and Tableau.
+💡 Generated business recommendations based on data-driven insights.
+
+📊 Visualizations Included
+
+✅ Category-wise Book Count
+✅ Average Price by Category
+✅ Book Price Distribution
+✅ Rating Distribution
+✅ Price vs Rating Analysis
+✅ Top 10 Most Expensive Books
+✅ Stock Distribution
+✅ Correlation Heatmap
+✅ Dashboard with KPI Cards
+
+🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
+- Jupyter Notebook
+
+📈 Key Business Insights
+
+✔️ Programming and AI books dominate the inventory.
+✔️ AI books have the highest average selling price.
+✔️ Most books are priced in the medium price range.
+✔️ Higher prices do not always result in higher ratings.
+✔️ Correlation analysis helps identify relationships between price, ratings, and stock levels.
+✔️ Interactive dashboards enable faster and more informed business decisions.
+
+This project strengthened my skills in Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Dashboard Design, Data Storytelling, and Business Analytics.
+
+I'm continuously improving my skills by building practical, end-to-end analytics projects. Your feedback and suggestions are always welcome!
+
+#DataAnalytics #DataVisualization #Python #Pandas #Matplotlib #Seaborn #PowerBI #Tableau #EDA #BusinessAnalytics #Dashboard #DataStorytelling #DataScience #Analytics #LearningInPublic #OpenToWork
